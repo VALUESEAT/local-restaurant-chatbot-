@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector database (rebuilt automatically on first run)
+restaurant_db/
+
+# Personal notes and secrets
+*.private.md
+.env

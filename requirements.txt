@@ -1,0 +1,4 @@
+flask
+chromadb
+ollama
+sentence-transformers
