@@ -6,7 +6,7 @@ A chatbot that answers customer questions about a restaurant menu, ingredients, 
 
 ## Why I built it
 
-i wanted to create an customer self service chatbot that can answer basic and simple question that usually needs a phone call and to be on the waiting list just to get an simple answer , and it answers all type of questions that its related to the restaurant and is the meal prep is done. 
+i wanted to create an customer self service chatbot that can answer basic and simple questions, that usually requires a phone call and just to be hold on the waiting list , the chatbot will provide the costumer needs in seconds, and how is the meal preparation is being done.  
 
 ## How it works
 
