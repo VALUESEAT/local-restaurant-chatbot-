@@ -8,7 +8,7 @@ A chatbot that answers customer questions about a restaurant menu, ingredients, 
 
 ## Why I built it
 
-A customer with an allergy needs a **correct** answer, not a guess. A small language model can make mistakes, so in this project **the allergy and diet safety checks are done by normal Python code**, and the language model only writes the friendly answer from facts that the code already checked.
+i wanted to create an customer self service chatbot that can answer basic and simple question that usually needs a phone call and to be on the waiting list just to get an simple answer , and it answers all type of questions that its related to the restaurant and is the meal prep is done. 
 
 ## How it works
 
