@@ -2,9 +2,7 @@
 
 A chatbot that answers customer questions about a restaurant menu, ingredients, allergens, and diets, in multilingual **English and Arabic**. It runs fully **locally**: a small language model (Qwen2.5:3b through Ollama) plus a vector database (ChromaDB). No cloud.
 
-![Chat page screenshot](docs/screenshot.png)
 
----
 
 ## Why I built it
 
