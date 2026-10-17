@@ -60,7 +60,7 @@ Output check (no leaked instructions) --> reply
 
 ## Tech stack
 
-Python · Flask · ChromaDB · sentence-transformers · Ollama (Qwen2.5:3b) · HTML/CSS/JavaScript
+Python · Flask · ChromaDB · sentence-transformers · Ollama (Qwen2.5:3b) · HTML
 
 ## Project structure
 
