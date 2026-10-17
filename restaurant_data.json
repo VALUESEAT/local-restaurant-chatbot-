@@ -1,0 +1,2268 @@
+{
+ "menu": [
+  {
+   "id": "M001",
+   "item_name": "Garlic Bread",
+   "name_ar": "خبز بالثوم",
+   "category": "Starters",
+   "ingredients": "Toasted baguette, garlic butter, parsley",
+   "price": "$5.50",
+   "price_usd": 5.5,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Garlic Bread (خبز بالثوم) | Category: Starters (المقبلات) | Price: $5.50 | Ingredients: Toasted baguette, garlic butter, parsley | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: خبز بالثوم نباتي"
+  },
+  {
+   "id": "M002",
+   "item_name": "Bruschetta",
+   "name_ar": "بروشيتا",
+   "category": "Starters",
+   "ingredients": "Grilled bread, tomatoes, basil, garlic, olive oil",
+   "price": "$7.00",
+   "price_usd": 7.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Bruschetta (بروشيتا) | Category: Starters (المقبلات) | Price: $7.00 | Ingredients: Grilled bread, tomatoes, basil, garlic, olive oil | Allergens it contains: gluten | Vegan: Yes | Vegetarian: Yes | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بروشيتا نباتي فيجان"
+  },
+  {
+   "id": "M003",
+   "item_name": "Mozzarella Sticks",
+   "name_ar": "أصابع الموزاريلا",
+   "category": "Starters",
+   "ingredients": "Breaded mozzarella, marinara sauce",
+   "price": "$8.50",
+   "price_usd": 8.5,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Mozzarella Sticks (أصابع الموزاريلا) | Category: Starters (المقبلات) | Price: $8.50 | Ingredients: Breaded mozzarella, marinara sauce | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: أصابع الموزاريلا نباتي"
+  },
+  {
+   "id": "M004",
+   "item_name": "Chicken Wings",
+   "name_ar": "أجنحة الدجاج",
+   "category": "Starters",
+   "ingredients": "Chicken wings, house seasoning, buffalo sauce",
+   "price": "$10.00",
+   "price_usd": 10.0,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [
+    "celery",
+    "milk"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Spice mixes often have celery",
+    "Buffalo sauce usually has butter"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Chicken Wings (أجنحة الدجاج) | Category: Starters (المقبلات) | Price: $10.00 | Ingredients: Chicken wings, house seasoning, buffalo sauce | Allergens it contains: none found | May also contain (kitchen must confirm): celery, milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Spice mixes often have celery; Buffalo sauce usually has butter | بالعربية: أجنحة الدجاج دجاج"
+  },
+  {
+   "id": "M005",
+   "item_name": "Hummus Plate",
+   "name_ar": "طبق حمص",
+   "category": "Starters",
+   "ingredients": "Chickpeas, tahini, lemon, garlic, olive oil, pita",
+   "price": "$8.00",
+   "price_usd": 8.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "sesame"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Hummus Plate (طبق حمص) | Category: Starters (المقبلات) | Price: $8.00 | Ingredients: Chickpeas, tahini, lemon, garlic, olive oil, pita | Allergens it contains: gluten, sesame | Vegan: Yes | Vegetarian: Yes | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: طبق حمص نباتي فيجان"
+  },
+  {
+   "id": "M006",
+   "item_name": "Crispy Calamari",
+   "name_ar": "كالاماري مقرمش",
+   "category": "Starters",
+   "ingredients": "Calamari, flour, herbs, lemon, aioli",
+   "price": "$11.50",
+   "price_usd": 11.5,
+   "dietary_tags": [
+    "dairy-free",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "molluscs"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Crispy Calamari (كالاماري مقرمش) | Category: Starters (المقبلات) | Price: $11.50 | Ingredients: Calamari, flour, herbs, lemon, aioli | Allergens it contains: eggs, gluten, molluscs | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: كالاماري مقرمش مأكولات بحرية"
+  },
+  {
+   "id": "M007",
+   "item_name": "Stuffed Mushrooms",
+   "name_ar": "فطر محشي",
+   "category": "Starters",
+   "ingredients": "Mushrooms, cream cheese, herbs, parmesan",
+   "price": "$9.00",
+   "price_usd": 9.0,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Stuffed Mushrooms (فطر محشي) | Category: Starters (المقبلات) | Price: $9.00 | Ingredients: Mushrooms, cream cheese, herbs, parmesan | Allergens it contains: milk | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: فطر محشي نباتي"
+  },
+  {
+   "id": "M008",
+   "item_name": "Shrimp Cocktail",
+   "name_ar": "كوكتيل الروبيان",
+   "category": "Starters",
+   "ingredients": "Shrimp, cocktail sauce, lemon",
+   "price": "$12.00",
+   "price_usd": 12.0,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "crustaceans"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Shrimp Cocktail (كوكتيل الروبيان) | Category: Starters (المقبلات) | Price: $12.00 | Ingredients: Shrimp, cocktail sauce, lemon | Allergens it contains: crustaceans | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: كوكتيل الروبيان مأكولات بحرية"
+  },
+  {
+   "id": "M009",
+   "item_name": "Caprese Skewers",
+   "name_ar": "أسياخ كابريزي",
+   "category": "Starters",
+   "ingredients": "Cherry tomatoes, mozzarella, basil, balsamic glaze",
+   "price": "$8.50",
+   "price_usd": 8.5,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk",
+    "sulphites"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Caprese Skewers (أسياخ كابريزي) | Category: Starters (المقبلات) | Price: $8.50 | Ingredients: Cherry tomatoes, mozzarella, basil, balsamic glaze | Allergens it contains: milk, sulphites | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: أسياخ كابريزي نباتي"
+  },
+  {
+   "id": "M010",
+   "item_name": "Loaded Potato Skins",
+   "name_ar": "قشور البطاطس المحشية",
+   "category": "Starters",
+   "ingredients": "Potato skins, cheddar, bacon, sour cream, chives",
+   "price": "$9.50",
+   "price_usd": 9.5,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": true,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Loaded Potato Skins (قشور البطاطس المحشية) | Category: Starters (المقبلات) | Price: $9.50 | Ingredients: Potato skins, cheddar, bacon, sour cream, chives | Allergens it contains: milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: No | بالعربية: قشور البطاطس المحشية"
+  },
+  {
+   "id": "M011",
+   "item_name": "Spinach Artichoke Dip",
+   "name_ar": "غموس السبانخ والخرشوف",
+   "category": "Starters",
+   "ingredients": "Spinach, artichokes, cream cheese, parmesan, garlic",
+   "price": "$9.00",
+   "price_usd": 9.0,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Spinach Artichoke Dip (غموس السبانخ والخرشوف) | Category: Starters (المقبلات) | Price: $9.00 | Ingredients: Spinach, artichokes, cream cheese, parmesan, garlic | Allergens it contains: milk | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: غموس السبانخ والخرشوف نباتي"
+  },
+  {
+   "id": "M012",
+   "item_name": "Beef Sliders",
+   "name_ar": "برغر لحم بقري صغير",
+   "category": "Starters",
+   "ingredients": "Mini beef patties, cheddar, pickles, brioche buns",
+   "price": "$11.00",
+   "price_usd": 11.0,
+   "dietary_tags": [
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Beef Sliders (برغر لحم بقري صغير) | Category: Starters (المقبلات) | Price: $11.00 | Ingredients: Mini beef patties, cheddar, pickles, brioche buns | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: برغر لحم بقري صغير لحم بقري"
+  },
+  {
+   "id": "M013",
+   "item_name": "Falafel Bites",
+   "name_ar": "فلافل",
+   "category": "Starters",
+   "ingredients": "Chickpeas, parsley, cilantro, garlic, spices, tahini",
+   "price": "$7.50",
+   "price_usd": 7.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "sesame"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Falafel Bites (فلافل) | Category: Starters (المقبلات) | Price: $7.50 | Ingredients: Chickpeas, parsley, cilantro, garlic, spices, tahini | Allergens it contains: sesame | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: فلافل نباتي فيجان"
+  },
+  {
+   "id": "M014",
+   "item_name": "Coconut Shrimp",
+   "name_ar": "روبيان بجوز الهند",
+   "category": "Starters",
+   "ingredients": "Shrimp, coconut flakes, breadcrumbs, sweet chili sauce",
+   "price": "$12.50",
+   "price_usd": 12.5,
+   "dietary_tags": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "coconut",
+    "crustaceans",
+    "gluten"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Coconut Shrimp (روبيان بجوز الهند) | Category: Starters (المقبلات) | Price: $12.50 | Ingredients: Shrimp, coconut flakes, breadcrumbs, sweet chili sauce | Allergens it contains: coconut, crustaceans, gluten | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: روبيان بجوز الهند مأكولات بحرية"
+  },
+  {
+   "id": "M015",
+   "item_name": "Nachos Supreme",
+   "name_ar": "ناتشوز سوبريم",
+   "category": "Starters",
+   "ingredients": "Tortilla chips, cheddar, beef, beans, jalapeños, salsa, sour cream",
+   "price": "$13.00",
+   "price_usd": 13.0,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Nachos Supreme (ناتشوز سوبريم) | Category: Starters (المقبلات) | Price: $13.00 | Ingredients: Tortilla chips, cheddar, beef, beans, jalapeños, salsa, sour cream | Allergens it contains: milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: ناتشوز سوبريم لحم بقري"
+  },
+  {
+   "id": "M016",
+   "item_name": "Greek Salad",
+   "name_ar": "سلطة يونانية",
+   "category": "Salads & Soups",
+   "ingredients": "Romaine, cucumber, tomatoes, olives, feta, red onion, oregano",
+   "price": "$9.50",
+   "price_usd": 9.5,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Greek Salad (سلطة يونانية) | Category: Salads & Soups (السلطات والشوربات) | Price: $9.50 | Ingredients: Romaine, cucumber, tomatoes, olives, feta, red onion, oregano | Allergens it contains: milk | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: سلطة يونانية نباتي"
+  },
+  {
+   "id": "M017",
+   "item_name": "Caesar Salad",
+   "name_ar": "سلطة سيزر",
+   "category": "Salads & Soups",
+   "ingredients": "Romaine, parmesan, croutons, Caesar dressing",
+   "price": "$8.50",
+   "price_usd": 8.5,
+   "dietary_tags": [
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [
+    "eggs",
+    "fish"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Caesar dressing often has anchovy and egg",
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Caesar Salad (سلطة سيزر) | Category: Salads & Soups (السلطات والشوربات) | Price: $8.50 | Ingredients: Romaine, parmesan, croutons, Caesar dressing | Allergens it contains: gluten, milk | May also contain (kitchen must confirm): eggs, fish | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | Notes: Caesar dressing often has anchovy and egg; Parmesan is traditionally made with animal rennet | بالعربية: سلطة سيزر"
+  },
+  {
+   "id": "M018",
+   "item_name": "Grilled Chicken Salad",
+   "name_ar": "سلطة دجاج مشوي",
+   "category": "Salads & Soups",
+   "ingredients": "Mixed greens, grilled chicken, tomatoes, cucumber, avocado, vinaigrette",
+   "price": "$13.50",
+   "price_usd": 13.5,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Grilled Chicken Salad (سلطة دجاج مشوي) | Category: Salads & Soups (السلطات والشوربات) | Price: $13.50 | Ingredients: Mixed greens, grilled chicken, tomatoes, cucumber, avocado, vinaigrette | Allergens it contains: none found | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: سلطة دجاج مشوي دجاج"
+  },
+  {
+   "id": "M019",
+   "item_name": "Tomato Basil Soup",
+   "name_ar": "شوربة الطماطم والريحان",
+   "category": "Salads & Soups",
+   "ingredients": "Tomatoes, basil, onion, garlic, vegetable stock, cream",
+   "price": "$7.00",
+   "price_usd": 7.0,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [
+    "celery"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Stock often has celery"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Tomato Basil Soup (شوربة الطماطم والريحان) | Category: Salads & Soups (السلطات والشوربات) | Price: $7.00 | Ingredients: Tomatoes, basil, onion, garlic, vegetable stock, cream | Allergens it contains: milk | May also contain (kitchen must confirm): celery | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Stock often has celery | بالعربية: شوربة الطماطم والريحان نباتي"
+  },
+  {
+   "id": "M020",
+   "item_name": "Lentil Soup",
+   "name_ar": "شوربة عدس",
+   "category": "Salads & Soups",
+   "ingredients": "Lentils, carrots, celery, onion, tomatoes, herbs",
+   "price": "$6.50",
+   "price_usd": 6.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "celery"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Lentil Soup (شوربة عدس) | Category: Salads & Soups (السلطات والشوربات) | Price: $6.50 | Ingredients: Lentils, carrots, celery, onion, tomatoes, herbs | Allergens it contains: celery | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: شوربة عدس نباتي فيجان"
+  },
+  {
+   "id": "M021",
+   "item_name": "Margherita Pizza",
+   "name_ar": "بيتزا مارغريتا",
+   "category": "Pizza",
+   "ingredients": "Pizza dough, tomato sauce, mozzarella, basil, olive oil",
+   "price": "$14.00",
+   "price_usd": 14.0,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Margherita Pizza (بيتزا مارغريتا) | Category: Pizza (بيتزا) | Price: $14.00 | Ingredients: Pizza dough, tomato sauce, mozzarella, basil, olive oil | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بيتزا مارغريتا نباتي"
+  },
+  {
+   "id": "M022",
+   "item_name": "Pepperoni Pizza",
+   "name_ar": "بيتزا بيبروني",
+   "category": "Pizza",
+   "ingredients": "Pizza dough, tomato sauce, mozzarella, pepperoni",
+   "price": "$16.00",
+   "price_usd": 16.0,
+   "dietary_tags": [
+    "nut-free",
+    "egg-free"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": true,
+   "contains_alcohol": false,
+   "notes": [
+    "Pepperoni is usually pork - confirm"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Pepperoni Pizza (بيتزا بيبروني) | Category: Pizza (بيتزا) | Price: $16.00 | Ingredients: Pizza dough, tomato sauce, mozzarella, pepperoni | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: No | Notes: Pepperoni is usually pork - confirm | بالعربية: بيتزا بيبروني"
+  },
+  {
+   "id": "M023",
+   "item_name": "BBQ Chicken Pizza",
+   "name_ar": "بيتزا دجاج باربكيو",
+   "category": "Pizza",
+   "ingredients": "Pizza dough, barbecue sauce, chicken, mozzarella, red onion",
+   "price": "$17.00",
+   "price_usd": 17.0,
+   "dietary_tags": [
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: BBQ Chicken Pizza (بيتزا دجاج باربكيو) | Category: Pizza (بيتزا) | Price: $17.00 | Ingredients: Pizza dough, barbecue sauce, chicken, mozzarella, red onion | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بيتزا دجاج باربكيو دجاج"
+  },
+  {
+   "id": "M024",
+   "item_name": "Four Cheese Pizza",
+   "name_ar": "بيتزا أربعة أجبان",
+   "category": "Pizza",
+   "ingredients": "Pizza dough, mozzarella, parmesan, cheddar, gorgonzola",
+   "price": "$17.50",
+   "price_usd": 17.5,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Four Cheese Pizza (بيتزا أربعة أجبان) | Category: Pizza (بيتزا) | Price: $17.50 | Ingredients: Pizza dough, mozzarella, parmesan, cheddar, gorgonzola | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: بيتزا أربعة أجبان نباتي"
+  },
+  {
+   "id": "M025",
+   "item_name": "Truffle Mushroom Pizza",
+   "name_ar": "بيتزا الفطر والكمأة",
+   "category": "Pizza",
+   "ingredients": "Pizza dough, mushrooms, mozzarella, truffle oil, parmesan",
+   "price": "$18.00",
+   "price_usd": 18.0,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Truffle Mushroom Pizza (بيتزا الفطر والكمأة) | Category: Pizza (بيتزا) | Price: $18.00 | Ingredients: Pizza dough, mushrooms, mozzarella, truffle oil, parmesan | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: بيتزا الفطر والكمأة نباتي"
+  },
+  {
+   "id": "M026",
+   "item_name": "Classic Cheeseburger",
+   "name_ar": "تشيز برغر كلاسيكي",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Beef patty, cheddar, lettuce, tomato, onion, pickles, brioche bun",
+   "price": "$14.50",
+   "price_usd": 14.5,
+   "dietary_tags": [
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Classic Cheeseburger (تشيز برغر كلاسيكي) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $14.50 | Ingredients: Beef patty, cheddar, lettuce, tomato, onion, pickles, brioche bun | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: تشيز برغر كلاسيكي لحم بقري"
+  },
+  {
+   "id": "M027",
+   "item_name": "Bacon Cheeseburger",
+   "name_ar": "تشيز برغر بالبيكون",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Beef patty, cheddar, bacon, lettuce, tomato, onion, brioche bun",
+   "price": "$16.00",
+   "price_usd": 16.0,
+   "dietary_tags": [
+    "nut-free"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": true,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Bacon Cheeseburger (تشيز برغر بالبيكون) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $16.00 | Ingredients: Beef patty, cheddar, bacon, lettuce, tomato, onion, brioche bun | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: No | بالعربية: تشيز برغر بالبيكون لحم بقري"
+  },
+  {
+   "id": "M028",
+   "item_name": "Grilled Chicken Sandwich",
+   "name_ar": "ساندويتش دجاج مشوي",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Grilled chicken, lettuce, tomato, avocado, mayonnaise, toasted bun",
+   "price": "$13.50",
+   "price_usd": 13.5,
+   "dietary_tags": [
+    "dairy-free",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Grilled Chicken Sandwich (ساندويتش دجاج مشوي) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $13.50 | Ingredients: Grilled chicken, lettuce, tomato, avocado, mayonnaise, toasted bun | Allergens it contains: eggs, gluten | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: ساندويتش دجاج مشوي دجاج"
+  },
+  {
+   "id": "M029",
+   "item_name": "Crispy Chicken Burger",
+   "name_ar": "برغر دجاج مقرمش",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Breaded chicken, lettuce, tomato, pickles, spicy mayo, brioche bun",
+   "price": "$14.00",
+   "price_usd": 14.0,
+   "dietary_tags": [
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Crispy Chicken Burger (برغر دجاج مقرمش) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $14.00 | Ingredients: Breaded chicken, lettuce, tomato, pickles, spicy mayo, brioche bun | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: برغر دجاج مقرمش دجاج"
+  },
+  {
+   "id": "M030",
+   "item_name": "Veggie Burger",
+   "name_ar": "برغر نباتي",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Plant-based patty, lettuce, tomato, onion, avocado, whole-grain bun",
+   "price": "$13.50",
+   "price_usd": 13.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten"
+   ],
+   "allergens_may_contain": [
+    "soy"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Plant-based patties often have soy"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Veggie Burger (برغر نباتي) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $13.50 | Ingredients: Plant-based patty, lettuce, tomato, onion, avocado, whole-grain bun | Allergens it contains: gluten | May also contain (kitchen must confirm): soy | Vegan: Yes | Vegetarian: Yes | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Plant-based patties often have soy | بالعربية: برغر نباتي نباتي فيجان"
+  },
+  {
+   "id": "M031",
+   "item_name": "Fish Tacos",
+   "name_ar": "تاكو السمك",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Grilled white fish, cabbage slaw, avocado, lime crema, corn tortillas",
+   "price": "$15.00",
+   "price_usd": 15.0,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "fish",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Fish Tacos (تاكو السمك) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $15.00 | Ingredients: Grilled white fish, cabbage slaw, avocado, lime crema, corn tortillas | Allergens it contains: fish, milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: تاكو السمك سمك"
+  },
+  {
+   "id": "M032",
+   "item_name": "Chicken Tacos",
+   "name_ar": "تاكو الدجاج",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Grilled chicken, lettuce, tomato, avocado, salsa, corn tortillas",
+   "price": "$14.00",
+   "price_usd": 14.0,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Chicken Tacos (تاكو الدجاج) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $14.00 | Ingredients: Grilled chicken, lettuce, tomato, avocado, salsa, corn tortillas | Allergens it contains: none found | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: تاكو الدجاج دجاج"
+  },
+  {
+   "id": "M033",
+   "item_name": "Beef Burrito",
+   "name_ar": "بوريتو لحم بقري",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Seasoned beef, rice, beans, cheddar, salsa, flour tortilla",
+   "price": "$14.50",
+   "price_usd": 14.5,
+   "dietary_tags": [
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Beef Burrito (بوريتو لحم بقري) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $14.50 | Ingredients: Seasoned beef, rice, beans, cheddar, salsa, flour tortilla | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بوريتو لحم بقري لحم بقري"
+  },
+  {
+   "id": "M034",
+   "item_name": "Vegetable Burrito",
+   "name_ar": "بوريتو خضار",
+   "category": "Burgers & Handhelds",
+   "ingredients": "Rice, black beans, peppers, onions, corn, avocado, flour tortilla",
+   "price": "$13.00",
+   "price_usd": 13.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Vegetable Burrito (بوريتو خضار) | Category: Burgers & Handhelds (برغر وساندويتشات) | Price: $13.00 | Ingredients: Rice, black beans, peppers, onions, corn, avocado, flour tortilla | Allergens it contains: gluten | Vegan: Yes | Vegetarian: Yes | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بوريتو خضار نباتي فيجان"
+  },
+  {
+   "id": "M035",
+   "item_name": "Chicken Alfredo",
+   "name_ar": "دجاج ألفريدو",
+   "category": "Pasta",
+   "ingredients": "Fettuccine, grilled chicken, parmesan, cream, garlic",
+   "price": "$17.00",
+   "price_usd": 17.0,
+   "dietary_tags": [
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [
+    "eggs"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Fresh fettuccine often has egg",
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Chicken Alfredo (دجاج ألفريدو) | Category: Pasta (معكرونة) | Price: $17.00 | Ingredients: Fettuccine, grilled chicken, parmesan, cream, garlic | Allergens it contains: gluten, milk | May also contain (kitchen must confirm): eggs | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | Notes: Fresh fettuccine often has egg; Parmesan is traditionally made with animal rennet | بالعربية: دجاج ألفريدو دجاج"
+  },
+  {
+   "id": "M036",
+   "item_name": "Spaghetti Bolognese",
+   "name_ar": "سباغيتي بولونيز",
+   "category": "Pasta",
+   "ingredients": "Spaghetti, ground beef, tomatoes, onion, garlic, herbs, parmesan",
+   "price": "$16.50",
+   "price_usd": 16.5,
+   "dietary_tags": [
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Spaghetti Bolognese (سباغيتي بولونيز) | Category: Pasta (معكرونة) | Price: $16.50 | Ingredients: Spaghetti, ground beef, tomatoes, onion, garlic, herbs, parmesan | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: سباغيتي بولونيز لحم بقري"
+  },
+  {
+   "id": "M037",
+   "item_name": "Penne Arrabbiata",
+   "name_ar": "بيني أرابياتا",
+   "category": "Pasta",
+   "ingredients": "Penne, tomatoes, garlic, chili, olive oil, parsley",
+   "price": "$14.00",
+   "price_usd": 14.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Penne Arrabbiata (بيني أرابياتا) | Category: Pasta (معكرونة) | Price: $14.00 | Ingredients: Penne, tomatoes, garlic, chili, olive oil, parsley | Allergens it contains: gluten | Vegan: Yes | Vegetarian: Yes | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بيني أرابياتا نباتي فيجان"
+  },
+  {
+   "id": "M038",
+   "item_name": "Lasagna",
+   "name_ar": "لازانيا",
+   "category": "Pasta",
+   "ingredients": "Pasta sheets, beef, tomato sauce, ricotta, mozzarella, parmesan",
+   "price": "$18.00",
+   "price_usd": 18.0,
+   "dietary_tags": [
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [
+    "eggs"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Fresh pasta sheets often have egg",
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Lasagna (لازانيا) | Category: Pasta (معكرونة) | Price: $18.00 | Ingredients: Pasta sheets, beef, tomato sauce, ricotta, mozzarella, parmesan | Allergens it contains: gluten, milk | May also contain (kitchen must confirm): eggs | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | Notes: Fresh pasta sheets often have egg; Parmesan is traditionally made with animal rennet | بالعربية: لازانيا لحم بقري"
+  },
+  {
+   "id": "M039",
+   "item_name": "Pesto Pasta",
+   "name_ar": "باستا بيستو",
+   "category": "Pasta",
+   "ingredients": "Penne, basil pesto, parmesan, pine nuts, olive oil",
+   "price": "$15.00",
+   "price_usd": 15.0,
+   "dietary_tags": [
+    "vegetarian",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk",
+    "tree_nuts"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Pesto Pasta (باستا بيستو) | Category: Pasta (معكرونة) | Price: $15.00 | Ingredients: Penne, basil pesto, parmesan, pine nuts, olive oil | Allergens it contains: gluten, milk, tree_nuts | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: No | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: باستا بيستو نباتي"
+  },
+  {
+   "id": "M040",
+   "item_name": "Seafood Linguine",
+   "name_ar": "لينغويني المأكولات البحرية",
+   "category": "Pasta",
+   "ingredients": "Linguine, shrimp, mussels, calamari, tomatoes, garlic, white wine",
+   "price": "$21.00",
+   "price_usd": 21.0,
+   "dietary_tags": [
+    "dairy-free",
+    "nut-free",
+    "egg-free"
+   ],
+   "allergens_contain": [
+    "crustaceans",
+    "gluten",
+    "molluscs",
+    "sulphites"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": true,
+   "notes": [
+    "Cooked with alcohol (wine or beer)"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Seafood Linguine (لينغويني المأكولات البحرية) | Category: Pasta (معكرونة) | Price: $21.00 | Ingredients: Linguine, shrimp, mussels, calamari, tomatoes, garlic, white wine | Allergens it contains: crustaceans, gluten, molluscs, sulphites | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: No | Notes: Cooked with alcohol (wine or beer) | بالعربية: لينغويني المأكولات البحرية مأكولات بحرية"
+  },
+  {
+   "id": "M041",
+   "item_name": "Grilled Salmon",
+   "name_ar": "سلمون مشوي",
+   "category": "Mains",
+   "ingredients": "Salmon fillet, lemon, herbs, olive oil, seasonal vegetables",
+   "price": "$22.00",
+   "price_usd": 22.0,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "fish"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Grilled Salmon (سلمون مشوي) | Category: Mains (الأطباق الرئيسية) | Price: $22.00 | Ingredients: Salmon fillet, lemon, herbs, olive oil, seasonal vegetables | Allergens it contains: fish | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: سلمون مشوي سمك"
+  },
+  {
+   "id": "M042",
+   "item_name": "Fish and Chips",
+   "name_ar": "سمك وبطاطس",
+   "category": "Mains",
+   "ingredients": "Beer-battered cod, fries, tartar sauce, lemon",
+   "price": "$17.50",
+   "price_usd": 17.5,
+   "dietary_tags": [
+    "dairy-free",
+    "nut-free"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "fish",
+    "gluten"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": true,
+   "notes": [
+    "Cooked with alcohol (wine or beer)"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Fish and Chips (سمك وبطاطس) | Category: Mains (الأطباق الرئيسية) | Price: $17.50 | Ingredients: Beer-battered cod, fries, tartar sauce, lemon | Allergens it contains: eggs, fish, gluten | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: No | Notes: Cooked with alcohol (wine or beer) | بالعربية: سمك وبطاطس سمك"
+  },
+  {
+   "id": "M043",
+   "item_name": "Grilled Sea Bass",
+   "name_ar": "سي باس مشوي",
+   "category": "Mains",
+   "ingredients": "Sea bass, lemon, garlic, herbs, roasted vegetables",
+   "price": "$23.00",
+   "price_usd": 23.0,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "fish"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Grilled Sea Bass (سي باس مشوي) | Category: Mains (الأطباق الرئيسية) | Price: $23.00 | Ingredients: Sea bass, lemon, garlic, herbs, roasted vegetables | Allergens it contains: fish | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: سي باس مشوي سمك"
+  },
+  {
+   "id": "M044",
+   "item_name": "Garlic Butter Shrimp",
+   "name_ar": "روبيان بزبدة الثوم",
+   "category": "Mains",
+   "ingredients": "Shrimp, garlic butter, parsley, lemon, steamed rice",
+   "price": "$20.00",
+   "price_usd": 20.0,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "crustaceans",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Garlic Butter Shrimp (روبيان بزبدة الثوم) | Category: Mains (الأطباق الرئيسية) | Price: $20.00 | Ingredients: Shrimp, garlic butter, parsley, lemon, steamed rice | Allergens it contains: crustaceans, milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: روبيان بزبدة الثوم مأكولات بحرية"
+  },
+  {
+   "id": "M045",
+   "item_name": "Chicken Parmesan",
+   "name_ar": "دجاج بارميزان",
+   "category": "Mains",
+   "ingredients": "Breaded chicken, marinara sauce, mozzarella, parmesan, spaghetti",
+   "price": "$18.50",
+   "price_usd": 18.5,
+   "dietary_tags": [
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Chicken Parmesan (دجاج بارميزان) | Category: Mains (الأطباق الرئيسية) | Price: $18.50 | Ingredients: Breaded chicken, marinara sauce, mozzarella, parmesan, spaghetti | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: دجاج بارميزان دجاج"
+  },
+  {
+   "id": "M046",
+   "item_name": "Grilled Chicken Breast",
+   "name_ar": "صدر دجاج مشوي",
+   "category": "Mains",
+   "ingredients": "Chicken breast, herbs, garlic, roasted potatoes, vegetables",
+   "price": "$17.00",
+   "price_usd": 17.0,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Grilled Chicken Breast (صدر دجاج مشوي) | Category: Mains (الأطباق الرئيسية) | Price: $17.00 | Ingredients: Chicken breast, herbs, garlic, roasted potatoes, vegetables | Allergens it contains: none found | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: صدر دجاج مشوي دجاج"
+  },
+  {
+   "id": "M047",
+   "item_name": "Chicken Teriyaki Bowl",
+   "name_ar": "وعاء دجاج تيرياكي",
+   "category": "Mains",
+   "ingredients": "Grilled chicken, jasmine rice, broccoli, teriyaki sauce, sesame",
+   "price": "$16.00",
+   "price_usd": 16.0,
+   "dietary_tags": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "sesame",
+    "soy"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Chicken Teriyaki Bowl (وعاء دجاج تيرياكي) | Category: Mains (الأطباق الرئيسية) | Price: $16.00 | Ingredients: Grilled chicken, jasmine rice, broccoli, teriyaki sauce, sesame | Allergens it contains: gluten, sesame, soy | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: وعاء دجاج تيرياكي دجاج"
+  },
+  {
+   "id": "M048",
+   "item_name": "Beef Stir-Fry",
+   "name_ar": "لحم بقري سوتيه",
+   "category": "Mains",
+   "ingredients": "Beef strips, bell peppers, broccoli, onions, soy sauce, jasmine rice",
+   "price": "$19.00",
+   "price_usd": 19.0,
+   "dietary_tags": [
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "soy"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Beef Stir-Fry (لحم بقري سوتيه) | Category: Mains (الأطباق الرئيسية) | Price: $19.00 | Ingredients: Beef strips, bell peppers, broccoli, onions, soy sauce, jasmine rice | Allergens it contains: gluten, soy | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: لحم بقري سوتيه لحم بقري"
+  },
+  {
+   "id": "M049",
+   "item_name": "Vegetable Stir-Fry",
+   "name_ar": "خضار سوتيه",
+   "category": "Mains",
+   "ingredients": "Broccoli, peppers, carrots, mushrooms, snow peas, soy sauce, rice",
+   "price": "$14.50",
+   "price_usd": 14.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "soy"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Vegetable Stir-Fry (خضار سوتيه) | Category: Mains (الأطباق الرئيسية) | Price: $14.50 | Ingredients: Broccoli, peppers, carrots, mushrooms, snow peas, soy sauce, rice | Allergens it contains: gluten, soy | Vegan: Yes | Vegetarian: Yes | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: خضار سوتيه نباتي فيجان"
+  },
+  {
+   "id": "M050",
+   "item_name": "Thai Coconut Curry",
+   "name_ar": "كاري تايلاندي بجوز الهند",
+   "category": "Mains",
+   "ingredients": "Coconut milk, vegetables, red curry paste, basil, jasmine rice",
+   "price": "$15.50",
+   "price_usd": 15.5,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "coconut"
+   ],
+   "allergens_may_contain": [
+    "crustaceans"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Red curry paste often has shrimp paste"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Thai Coconut Curry (كاري تايلاندي بجوز الهند) | Category: Mains (الأطباق الرئيسية) | Price: $15.50 | Ingredients: Coconut milk, vegetables, red curry paste, basil, jasmine rice | Allergens it contains: coconut | May also contain (kitchen must confirm): crustaceans | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Red curry paste often has shrimp paste | بالعربية: كاري تايلاندي بجوز الهند"
+  },
+  {
+   "id": "M051",
+   "item_name": "Chicken Tikka Masala",
+   "name_ar": "دجاج تكا ماسالا",
+   "category": "Mains",
+   "ingredients": "Chicken, tomato cream sauce, yogurt, ginger, garlic, spices, basmati rice",
+   "price": "$18.00",
+   "price_usd": 18.0,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Chicken Tikka Masala (دجاج تكا ماسالا) | Category: Mains (الأطباق الرئيسية) | Price: $18.00 | Ingredients: Chicken, tomato cream sauce, yogurt, ginger, garlic, spices, basmati rice | Allergens it contains: milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: دجاج تكا ماسالا دجاج"
+  },
+  {
+   "id": "M052",
+   "item_name": "Vegetable Curry",
+   "name_ar": "كاري الخضار",
+   "category": "Mains",
+   "ingredients": "Potatoes, cauliflower, peas, carrots, coconut milk, curry spices",
+   "price": "$15.00",
+   "price_usd": 15.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "coconut"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Vegetable Curry (كاري الخضار) | Category: Mains (الأطباق الرئيسية) | Price: $15.00 | Ingredients: Potatoes, cauliflower, peas, carrots, coconut milk, curry spices | Allergens it contains: coconut | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: كاري الخضار نباتي فيجان"
+  },
+  {
+   "id": "M053",
+   "item_name": "Lamb Gyro Plate",
+   "name_ar": "طبق جيرو لحم ضأن",
+   "category": "Mains",
+   "ingredients": "Seasoned lamb, pita, tomatoes, cucumber, onion, tzatziki",
+   "price": "$18.50",
+   "price_usd": 18.5,
+   "dietary_tags": [
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Lamb Gyro Plate (طبق جيرو لحم ضأن) | Category: Mains (الأطباق الرئيسية) | Price: $18.50 | Ingredients: Seasoned lamb, pita, tomatoes, cucumber, onion, tzatziki | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: No | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: طبق جيرو لحم ضأن لحم ضأن"
+  },
+  {
+   "id": "M054",
+   "item_name": "Chicken Shawarma Plate",
+   "name_ar": "طبق شاورما دجاج",
+   "category": "Mains",
+   "ingredients": "Chicken shawarma, rice, hummus, salad, garlic sauce, pickles",
+   "price": "$17.50",
+   "price_usd": 17.5,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "sesame"
+   ],
+   "allergens_may_contain": [
+    "eggs",
+    "milk"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Garlic sauce recipes differ (some use egg or dairy)"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Chicken Shawarma Plate (طبق شاورما دجاج) | Category: Mains (الأطباق الرئيسية) | Price: $17.50 | Ingredients: Chicken shawarma, rice, hummus, salad, garlic sauce, pickles | Allergens it contains: sesame | May also contain (kitchen must confirm): eggs, milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | Notes: Garlic sauce recipes differ (some use egg or dairy) | بالعربية: طبق شاورما دجاج دجاج"
+  },
+  {
+   "id": "M055",
+   "item_name": "Beef Kebabs",
+   "name_ar": "كباب لحم بقري",
+   "category": "Mains",
+   "ingredients": "Grilled beef, peppers, onions, herbs, basmati rice",
+   "price": "$21.00",
+   "price_usd": 21.0,
+   "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Beef Kebabs (كباب لحم بقري) | Category: Mains (الأطباق الرئيسية) | Price: $21.00 | Ingredients: Grilled beef, peppers, onions, herbs, basmati rice | Allergens it contains: none found | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: كباب لحم بقري لحم بقري"
+  },
+  {
+   "id": "M056",
+   "item_name": "Falafel Platter",
+   "name_ar": "طبق فلافل",
+   "category": "Mains",
+   "ingredients": "Falafel, hummus, tabbouleh, pickles, tahini, pita",
+   "price": "$15.00",
+   "price_usd": 15.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "sesame"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Falafel Platter (طبق فلافل) | Category: Mains (الأطباق الرئيسية) | Price: $15.00 | Ingredients: Falafel, hummus, tabbouleh, pickles, tahini, pita | Allergens it contains: gluten, sesame | Vegan: Yes | Vegetarian: Yes | Gluten-free: No | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: طبق فلافل نباتي فيجان"
+  },
+  {
+   "id": "M057",
+   "item_name": "Steak Frites",
+   "name_ar": "ستيك مع بطاطس مقلية",
+   "category": "Mains",
+   "ingredients": "Grilled sirloin steak, French fries, herb butter, mixed greens",
+   "price": "$24.00",
+   "price_usd": 24.0,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Steak Frites (ستيك مع بطاطس مقلية) | Category: Mains (الأطباق الرئيسية) | Price: $24.00 | Ingredients: Grilled sirloin steak, French fries, herb butter, mixed greens | Allergens it contains: milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: ستيك مع بطاطس مقلية لحم بقري"
+  },
+  {
+   "id": "M058",
+   "item_name": "Ribeye Steak",
+   "name_ar": "ستيك ريب آي",
+   "category": "Mains",
+   "ingredients": "Ribeye steak, roasted potatoes, grilled vegetables, herb butter",
+   "price": "$29.00",
+   "price_usd": 29.0,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Ribeye Steak (ستيك ريب آي) | Category: Mains (الأطباق الرئيسية) | Price: $29.00 | Ingredients: Ribeye steak, roasted potatoes, grilled vegetables, herb butter | Allergens it contains: milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: ستيك ريب آي لحم بقري"
+  },
+  {
+   "id": "M059",
+   "item_name": "Mushroom Risotto",
+   "name_ar": "ريزوتو الفطر",
+   "category": "Mains",
+   "ingredients": "Arborio rice, mushrooms, parmesan, vegetable stock, garlic",
+   "price": "$17.00",
+   "price_usd": 17.0,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [
+    "celery"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Stock often has celery",
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Mushroom Risotto (ريزوتو الفطر) | Category: Mains (الأطباق الرئيسية) | Price: $17.00 | Ingredients: Arborio rice, mushrooms, parmesan, vegetable stock, garlic | Allergens it contains: milk | May also contain (kitchen must confirm): celery | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Stock often has celery; Parmesan is traditionally made with animal rennet | بالعربية: ريزوتو الفطر نباتي"
+  },
+  {
+   "id": "M060",
+   "item_name": "Eggplant Parmesan",
+   "name_ar": "باذنجان بارميزان",
+   "category": "Mains",
+   "ingredients": "Breaded eggplant, marinara, mozzarella, parmesan, basil",
+   "price": "$16.00",
+   "price_usd": 16.0,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Parmesan is traditionally made with animal rennet"
+   ],
+   "needs_chef_check": false,
+   "search_text": "Dish: Eggplant Parmesan (باذنجان بارميزان) | Category: Mains (الأطباق الرئيسية) | Price: $16.00 | Ingredients: Breaded eggplant, marinara, mozzarella, parmesan, basil | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | Notes: Parmesan is traditionally made with animal rennet | بالعربية: باذنجان بارميزان نباتي"
+  },
+  {
+   "id": "M061",
+   "item_name": "Stuffed Bell Peppers",
+   "name_ar": "فلفل حلو محشي",
+   "category": "Mains",
+   "ingredients": "Bell peppers, quinoa, black beans, corn, tomatoes, herbs",
+   "price": "$15.50",
+   "price_usd": 15.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Stuffed Bell Peppers (فلفل حلو محشي) | Category: Mains (الأطباق الرئيسية) | Price: $15.50 | Ingredients: Bell peppers, quinoa, black beans, corn, tomatoes, herbs | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: فلفل حلو محشي نباتي فيجان"
+  },
+  {
+   "id": "M062",
+   "item_name": "Chocolate Lava Cake",
+   "name_ar": "كيكة الشوكولاتة الذائبة",
+   "category": "Desserts",
+   "ingredients": "Chocolate cake, dark chocolate center, vanilla ice cream",
+   "price": "$8.50",
+   "price_usd": 8.5,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Chocolate Lava Cake (كيكة الشوكولاتة الذائبة) | Category: Desserts (الحلويات) | Price: $8.50 | Ingredients: Chocolate cake, dark chocolate center, vanilla ice cream | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: كيكة الشوكولاتة الذائبة نباتي"
+  },
+  {
+   "id": "M063",
+   "item_name": "New York Cheesecake",
+   "name_ar": "تشيز كيك نيويورك",
+   "category": "Desserts",
+   "ingredients": "Cream cheese, sugar, eggs, vanilla, graham cracker crust",
+   "price": "$8.00",
+   "price_usd": 8.0,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: New York Cheesecake (تشيز كيك نيويورك) | Category: Desserts (الحلويات) | Price: $8.00 | Ingredients: Cream cheese, sugar, eggs, vanilla, graham cracker crust | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: تشيز كيك نيويورك نباتي"
+  },
+  {
+   "id": "M064",
+   "item_name": "Tiramisu",
+   "name_ar": "تيراميسو",
+   "category": "Desserts",
+   "ingredients": "Mascarpone, espresso, ladyfingers, cocoa, sugar",
+   "price": "$8.50",
+   "price_usd": 8.5,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": true,
+   "notes": [
+    "Traditional tiramisu can contain liqueur - confirm with the kitchen"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Tiramisu (تيراميسو) | Category: Desserts (الحلويات) | Price: $8.50 | Ingredients: Mascarpone, espresso, ladyfingers, cocoa, sugar | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: No | Notes: Traditional tiramisu can contain liqueur - confirm with the kitchen | بالعربية: تيراميسو نباتي"
+  },
+  {
+   "id": "M065",
+   "item_name": "Apple Crumble",
+   "name_ar": "كرمبل التفاح",
+   "category": "Desserts",
+   "ingredients": "Apples, cinnamon, brown sugar, oats, butter, flour",
+   "price": "$7.50",
+   "price_usd": 7.5,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Apple Crumble (كرمبل التفاح) | Category: Desserts (الحلويات) | Price: $7.50 | Ingredients: Apples, cinnamon, brown sugar, oats, butter, flour | Allergens it contains: gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: كرمبل التفاح نباتي"
+  },
+  {
+   "id": "M066",
+   "item_name": "Chocolate Brownie",
+   "name_ar": "براوني الشوكولاتة",
+   "category": "Desserts",
+   "ingredients": "Dark chocolate, butter, flour, eggs, sugar, walnuts",
+   "price": "$7.00",
+   "price_usd": 7.0,
+   "dietary_tags": [
+    "vegetarian",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk",
+    "tree_nuts"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Chocolate Brownie (براوني الشوكولاتة) | Category: Desserts (الحلويات) | Price: $7.00 | Ingredients: Dark chocolate, butter, flour, eggs, sugar, walnuts | Allergens it contains: eggs, gluten, milk, tree_nuts | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: No | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: براوني الشوكولاتة نباتي"
+  },
+  {
+   "id": "M067",
+   "item_name": "Panna Cotta",
+   "name_ar": "بانا كوتا",
+   "category": "Desserts",
+   "ingredients": "Cream, vanilla, sugar, gelatin, berry sauce",
+   "price": "$7.50",
+   "price_usd": 7.5,
+   "dietary_tags": [
+    "gluten-free",
+    "nut-free",
+    "egg-free"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Contains gelatin (from animals, source unknown - could be pork), so it is not vegetarian"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Panna Cotta (بانا كوتا) | Category: Desserts (الحلويات) | Price: $7.50 | Ingredients: Cream, vanilla, sugar, gelatin, berry sauce | Allergens it contains: milk | Vegan: No | Vegetarian: No | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: No | Notes: Contains gelatin (from animals, source unknown - could be pork), so it is not vegetarian | بالعربية: بانا كوتا"
+  },
+  {
+   "id": "M068",
+   "item_name": "Lemon Tart",
+   "name_ar": "تارت الليمون",
+   "category": "Desserts",
+   "ingredients": "Lemon curd, butter, eggs, sugar, pastry crust",
+   "price": "$7.50",
+   "price_usd": 7.5,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Lemon Tart (تارت الليمون) | Category: Desserts (الحلويات) | Price: $7.50 | Ingredients: Lemon curd, butter, eggs, sugar, pastry crust | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: تارت الليمون نباتي"
+  },
+  {
+   "id": "M069",
+   "item_name": "Baklava",
+   "name_ar": "بقلاوة",
+   "category": "Desserts",
+   "ingredients": "Phyllo pastry, walnuts, pistachios, butter, honey syrup",
+   "price": "$6.50",
+   "price_usd": 6.5,
+   "dietary_tags": [
+    "vegetarian",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk",
+    "tree_nuts"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Baklava (بقلاوة) | Category: Desserts (الحلويات) | Price: $6.50 | Ingredients: Phyllo pastry, walnuts, pistachios, butter, honey syrup | Allergens it contains: gluten, milk, tree_nuts | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: No | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بقلاوة نباتي"
+  },
+  {
+   "id": "M070",
+   "item_name": "Mango Sorbet",
+   "name_ar": "سوربيه المانجو",
+   "category": "Desserts",
+   "ingredients": "Mango, sugar, lemon juice, water",
+   "price": "$6.00",
+   "price_usd": 6.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Mango Sorbet (سوربيه المانجو) | Category: Desserts (الحلويات) | Price: $6.00 | Ingredients: Mango, sugar, lemon juice, water | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: سوربيه المانجو نباتي فيجان"
+  },
+  {
+   "id": "M071",
+   "item_name": "Fresh Fruit Salad",
+   "name_ar": "سلطة فواكه طازجة",
+   "category": "Desserts",
+   "ingredients": "Strawberries, melon, pineapple, grapes, berries, mint",
+   "price": "$6.50",
+   "price_usd": 6.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Fresh Fruit Salad (سلطة فواكه طازجة) | Category: Desserts (الحلويات) | Price: $6.50 | Ingredients: Strawberries, melon, pineapple, grapes, berries, mint | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: سلطة فواكه طازجة نباتي فيجان"
+  },
+  {
+   "id": "M072",
+   "item_name": "Vanilla Ice Cream",
+   "name_ar": "آيس كريم فانيليا",
+   "category": "Desserts",
+   "ingredients": "Milk, cream, sugar, vanilla",
+   "price": "$5.50",
+   "price_usd": 5.5,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Vanilla Ice Cream (آيس كريم فانيليا) | Category: Desserts (الحلويات) | Price: $5.50 | Ingredients: Milk, cream, sugar, vanilla | Allergens it contains: milk | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: آيس كريم فانيليا نباتي"
+  },
+  {
+   "id": "M073",
+   "item_name": "Chocolate Mousse",
+   "name_ar": "موس الشوكولاتة",
+   "category": "Desserts",
+   "ingredients": "Dark chocolate, cream, eggs, sugar, vanilla",
+   "price": "$7.50",
+   "price_usd": 7.5,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Chocolate Mousse (موس الشوكولاتة) | Category: Desserts (الحلويات) | Price: $7.50 | Ingredients: Dark chocolate, cream, eggs, sugar, vanilla | Allergens it contains: eggs, milk | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: موس الشوكولاتة نباتي"
+  },
+  {
+   "id": "M074",
+   "item_name": "Carrot Cake",
+   "name_ar": "كيكة الجزر",
+   "category": "Desserts",
+   "ingredients": "Carrots, flour, cinnamon, walnuts, cream cheese frosting",
+   "price": "$8.00",
+   "price_usd": 8.0,
+   "dietary_tags": [
+    "vegetarian",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "gluten",
+    "milk",
+    "tree_nuts"
+   ],
+   "allergens_may_contain": [
+    "eggs"
+   ],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [
+    "Cake batter usually has eggs - confirm"
+   ],
+   "needs_chef_check": true,
+   "search_text": "Dish: Carrot Cake (كيكة الجزر) | Category: Desserts (الحلويات) | Price: $8.00 | Ingredients: Carrots, flour, cinnamon, walnuts, cream cheese frosting | Allergens it contains: gluten, milk, tree_nuts | May also contain (kitchen must confirm): eggs | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: No | Egg-free: No | No pork and no alcohol in the recipe: Yes | Notes: Cake batter usually has eggs - confirm | بالعربية: كيكة الجزر نباتي"
+  },
+  {
+   "id": "M075",
+   "item_name": "Coconut Rice Pudding",
+   "name_ar": "أرز بحليب جوز الهند",
+   "category": "Desserts",
+   "ingredients": "Rice, coconut milk, sugar, cinnamon, vanilla",
+   "price": "$6.50",
+   "price_usd": 6.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "coconut"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Coconut Rice Pudding (أرز بحليب جوز الهند) | Category: Desserts (الحلويات) | Price: $6.50 | Ingredients: Rice, coconut milk, sugar, cinnamon, vanilla | Allergens it contains: coconut | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: أرز بحليب جوز الهند نباتي فيجان"
+  },
+  {
+   "id": "M076",
+   "item_name": "Strawberry Shortcake",
+   "name_ar": "شورت كيك الفراولة",
+   "category": "Desserts",
+   "ingredients": "Vanilla cake, strawberries, whipped cream, sugar",
+   "price": "$8.00",
+   "price_usd": 8.0,
+   "dietary_tags": [
+    "vegetarian",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "gluten",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Strawberry Shortcake (شورت كيك الفراولة) | Category: Desserts (الحلويات) | Price: $8.00 | Ingredients: Vanilla cake, strawberries, whipped cream, sugar | Allergens it contains: eggs, gluten, milk | Vegan: No | Vegetarian: Yes | Gluten-free: No | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: شورت كيك الفراولة نباتي"
+  },
+  {
+   "id": "M077",
+   "item_name": "Crème Brûlée",
+   "name_ar": "كريم بروليه",
+   "category": "Desserts",
+   "ingredients": "Heavy cream, egg yolks, sugar, vanilla",
+   "price": "$8.50",
+   "price_usd": 8.5,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "eggs",
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Crème Brûlée (كريم بروليه) | Category: Desserts (الحلويات) | Price: $8.50 | Ingredients: Heavy cream, egg yolks, sugar, vanilla | Allergens it contains: eggs, milk | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: No | No pork and no alcohol in the recipe: Yes | بالعربية: كريم بروليه نباتي"
+  },
+  {
+   "id": "M078",
+   "item_name": "Pistachio Gelato",
+   "name_ar": "جيلاتو الفستق",
+   "category": "Desserts",
+   "ingredients": "Milk, cream, pistachios, sugar, vanilla",
+   "price": "$6.50",
+   "price_usd": 6.5,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk",
+    "tree_nuts"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Pistachio Gelato (جيلاتو الفستق) | Category: Desserts (الحلويات) | Price: $6.50 | Ingredients: Milk, cream, pistachios, sugar, vanilla | Allergens it contains: milk, tree_nuts | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: No | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: جيلاتو الفستق نباتي"
+  },
+  {
+   "id": "M079",
+   "item_name": "French Fries",
+   "name_ar": "بطاطس مقلية",
+   "category": "Sides",
+   "ingredients": "Potatoes, vegetable oil, sea salt",
+   "price": "$4.50",
+   "price_usd": 4.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: French Fries (بطاطس مقلية) | Category: Sides (الأطباق الجانبية) | Price: $4.50 | Ingredients: Potatoes, vegetable oil, sea salt | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: بطاطس مقلية نباتي فيجان"
+  },
+  {
+   "id": "M080",
+   "item_name": "Side Salad",
+   "name_ar": "سلطة جانبية",
+   "category": "Sides",
+   "ingredients": "Mixed greens, tomatoes, cucumber, olive oil, lemon",
+   "price": "$4.00",
+   "price_usd": 4.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Side Salad (سلطة جانبية) | Category: Sides (الأطباق الجانبية) | Price: $4.00 | Ingredients: Mixed greens, tomatoes, cucumber, olive oil, lemon | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: سلطة جانبية نباتي فيجان"
+  },
+  {
+   "id": "M081",
+   "item_name": "Fresh Orange Juice",
+   "name_ar": "عصير برتقال طازج",
+   "category": "Drinks",
+   "ingredients": "Fresh oranges",
+   "price": "$4.50",
+   "price_usd": 4.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Fresh Orange Juice (عصير برتقال طازج) | Category: Drinks (المشروبات) | Price: $4.50 | Ingredients: Fresh oranges | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: عصير برتقال طازج نباتي فيجان"
+  },
+  {
+   "id": "M082",
+   "item_name": "Mint Lemonade",
+   "name_ar": "ليمون بالنعناع",
+   "category": "Drinks",
+   "ingredients": "Lemon juice, fresh mint, sugar, water",
+   "price": "$4.00",
+   "price_usd": 4.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Mint Lemonade (ليمون بالنعناع) | Category: Drinks (المشروبات) | Price: $4.00 | Ingredients: Lemon juice, fresh mint, sugar, water | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: ليمون بالنعناع نباتي فيجان"
+  },
+  {
+   "id": "M083",
+   "item_name": "Iced Tea",
+   "name_ar": "شاي مثلج",
+   "category": "Drinks",
+   "ingredients": "Black tea, lemon, sugar, ice",
+   "price": "$3.50",
+   "price_usd": 3.5,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Iced Tea (شاي مثلج) | Category: Drinks (المشروبات) | Price: $3.50 | Ingredients: Black tea, lemon, sugar, ice | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: شاي مثلج نباتي فيجان"
+  },
+  {
+   "id": "M084",
+   "item_name": "Sparkling Water",
+   "name_ar": "ماء غازي",
+   "category": "Drinks",
+   "ingredients": "Carbonated water",
+   "price": "$3.00",
+   "price_usd": 3.0,
+   "dietary_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Sparkling Water (ماء غازي) | Category: Drinks (المشروبات) | Price: $3.00 | Ingredients: Carbonated water | Allergens it contains: none found | Vegan: Yes | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: Yes | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: ماء غازي نباتي فيجان"
+  },
+  {
+   "id": "M085",
+   "item_name": "Cappuccino",
+   "name_ar": "كابتشينو",
+   "category": "Drinks",
+   "ingredients": "Espresso, steamed milk",
+   "price": "$4.50",
+   "price_usd": 4.5,
+   "dietary_tags": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free",
+    "egg-free",
+    "no-pork-no-alcohol"
+   ],
+   "allergens_contain": [
+    "milk"
+   ],
+   "allergens_may_contain": [],
+   "contains_pork": false,
+   "contains_alcohol": false,
+   "notes": [],
+   "needs_chef_check": false,
+   "search_text": "Dish: Cappuccino (كابتشينو) | Category: Drinks (المشروبات) | Price: $4.50 | Ingredients: Espresso, steamed milk | Allergens it contains: milk | Vegan: No | Vegetarian: Yes | Gluten-free: Yes | Dairy-free: No | Nut-free: Yes | Egg-free: Yes | No pork and no alcohol in the recipe: Yes | بالعربية: كابتشينو نباتي"
+  }
+ ],
+ "info": [
+  {
+   "id": "vegan_vs_vegetarian",
+   "status": "ready",
+   "topic": "Vegan vs vegetarian / نباتي وفيجان",
+   "answer": "Vegetarian dishes have no meat or fish, but they may have dairy, eggs or honey. Vegan dishes have no animal products at all: no meat, fish, dairy, eggs, honey or gelatin. Every vegan dish is also vegetarian. | الطبق النباتي لا يحتوي على لحوم أو أسماك لكن قد يحتوي على ألبان أو بيض أو عسل. الطبق الفيجان لا يحتوي على أي منتج حيواني."
+  },
+  {
+   "id": "allergy_policy",
+   "status": "ready",
+   "topic": "Allergy policy / الحساسية",
+   "answer": "Our allergen information comes from each dish's ingredient list. Our kitchen also handles gluten, dairy, eggs, nuts, sesame, fish and shellfish, so we cannot promise zero cross-contact. If you have a severe allergy, please tell your server and ask to speak with the manager or chef before you order. | نعتمد في معلومات الحساسية على مكونات كل طبق. مطبخنا يتعامل مع الغلوتين والألبان والبيض والمكسرات والسمسم والأسماك والمأكولات البحرية، لذلك لا نضمن عدم التلامس. إذا كانت لديك حساسية شديدة، أخبر النادل واطلب التحدث مع المدير أو الشيف قبل الطلب."
+  },
+  {
+   "id": "recipes_private",
+   "status": "ready",
+   "topic": "Recipes and cooking method / الوصفات",
+   "answer": "We are happy to share each dish's ingredients and allergens. Our recipes and preparation methods are private, so I cannot share them. | يسعدنا إخبارك بمكونات كل طبق ومسببات الحساسية فيه، لكن وصفاتنا وطرق التحضير سرية ولا يمكنني مشاركتها."
+  },
+  {
+   "id": "hours",
+   "status": "todo",
+   "topic": "Opening hours / ساعات العمل",
+   "answer": "TODO: opening hours for each day, kitchen closing time, holiday hours"
+  },
+  {
+   "id": "location",
+   "status": "todo",
+   "topic": "Address and directions / العنوان",
+   "answer": "TODO: full address, nearest landmark, Google Maps link"
+  },
+  {
+   "id": "contact",
+   "status": "todo",
+   "topic": "Phone, WhatsApp, email / التواصل",
+   "answer": "TODO: phone number, WhatsApp, email"
+  },
+  {
+   "id": "ordering",
+   "status": "todo",
+   "topic": "How to order / كيف أطلب",
+   "answer": "TODO: how guests order (in restaurant, phone, website, delivery app). The chatbot itself cannot place orders."
+  },
+  {
+   "id": "reservations",
+   "status": "todo",
+   "topic": "Table reservations / الحجز",
+   "answer": "TODO: how to book a table, large group rules"
+  },
+  {
+   "id": "delivery_takeaway",
+   "status": "todo",
+   "topic": "Delivery and takeaway / التوصيل",
+   "answer": "TODO: delivery yes/no, areas, fee, takeaway time"
+  },
+  {
+   "id": "payment",
+   "status": "todo",
+   "topic": "Payment methods / الدفع",
+   "answer": "TODO: cash, card, service charge, tax"
+  },
+  {
+   "id": "halal",
+   "status": "todo",
+   "topic": "Halal policy / حلال",
+   "answer": "TODO: are the meat and chicken halal certified? who is the supplier? (the menu only shows dishes with no pork or alcohol in the recipe)"
+  },
+  {
+   "id": "parking_valet",
+   "status": "todo",
+   "topic": "Parking and valet / المواقف",
+   "answer": "TODO: parking, valet service, rules"
+  },
+  {
+   "id": "kids_groups",
+   "status": "todo",
+   "topic": "Kids, groups, catering / الأطفال والمناسبات",
+   "answer": "TODO: kids menu, high chairs, group bookings, catering"
+  },
+  {
+   "id": "complaints",
+   "status": "todo",
+   "topic": "Complaints / الشكاوى",
+   "answer": "TODO: manager email or phone for complaints. The bot must say sorry, collect nothing it cannot pass on, and give this contact."
+  }
+ ]
+}
