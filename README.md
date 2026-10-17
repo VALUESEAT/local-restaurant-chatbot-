@@ -1,6 +1,6 @@
-# Value Seat — 24/7 Restaurant Support Chatbot (English + Arabic)
+# Value Seat  24/7 Restaurant Support Chatbot (English + Arabic)
 
-A chatbot that answers customer questions about a restaurant menu, ingredients, allergens, and diets, in **English and Arabic**. It runs fully **locally**: a small language model (Qwen2.5:3b through Ollama) plus a vector database (ChromaDB). No cloud API is needed.
+A chatbot that answers customer questions about a restaurant menu, ingredients, allergens, and diets, in multilingual **English and Arabic**. It runs fully **locally**: a small language model (Qwen2.5:3b through Ollama) plus a vector database (ChromaDB). No cloud.
 
 ![Chat page screenshot](docs/screenshot.png)
 
